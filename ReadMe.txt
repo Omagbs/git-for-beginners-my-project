@@ -1,4 +1,4 @@
-This repo contains personal python practice as I journey through my python course.
+This repo contains personal practice for GIT for beginners
 
 Author: Paul O.
 Email: paulwem3000@gmail.com
